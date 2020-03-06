@@ -1,2 +1,2 @@
-# Beginning-POM-Framework2
-Expanding our tests
+# Beginning-POM-Framework
+This is the 1st part of beginning a framework for selenium using POM
